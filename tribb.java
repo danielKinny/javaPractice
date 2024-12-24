@@ -17,8 +17,3 @@ class algo{
         }
     }
 }
-
-class Mathematician{
-
-    public M
-}
